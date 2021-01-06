@@ -6,6 +6,11 @@
 Python API to load data from **[Fundamentus](ww.fundamentus.com.br)** website.
 
 
+### *__Update__*
+
+This repo has moved. Please check https://github.com/mv/fundamentus-api/ for
+the latest version.
+
 
 ## API usage
 
